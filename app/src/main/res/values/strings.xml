@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"> </string>
+    <string name="app_name">Saugykla</string>
     <string name="welcomeText">Welcome to your items list. Never forget anything</string>
     <string name="logo">there must be a logo</string>
 
